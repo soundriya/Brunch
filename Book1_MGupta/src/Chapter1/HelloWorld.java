@@ -1,13 +1,10 @@
 package Chapter1;
 
-/**
- * @author rkannan2
- *
- */
 public class HelloWorld {
+	overloadMain obj;
 
-	public static void main(String args[]) {
-		System.out.println("Ramya /*Hello "
-				                  + "*/ OCA ");
+	public static void main(String[] ramy) {
+		System.out.println("Ramya /*Hello " + "*/ OCA ");
 	}
+
 }
